@@ -1,0 +1,19 @@
+{
+  "name": "hackmud-discord-relay",
+  "version": "1.0.0",
+  "description": "Relays Hackmud in-game chat to discord. (Not from.)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jojotastic777/hackmud-discord-relay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jojotastic777/hackmud-discord-relay/issues"
+  },
+  "homepage": "https://github.com/jojotastic777/hackmud-discord-relay#readme"
+}
